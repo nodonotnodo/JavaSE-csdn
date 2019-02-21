@@ -1,4 +1,4 @@
-public class Datatype {
+public class DataType {
 
     private static byte b;//对象属性未初始化，为默认值
     private static short s;
