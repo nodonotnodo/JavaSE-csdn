@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DataType/DataType.iml" filepath="$PROJECT_DIR$/DataType/DataType.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaSE-csdn.iml" filepath="$PROJECT_DIR$/.idea/JavaSE-csdn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataType/csdn.iml" filepath="$PROJECT_DIR$/DataType/csdn.iml" />
     </modules>
   </component>
 </project>
