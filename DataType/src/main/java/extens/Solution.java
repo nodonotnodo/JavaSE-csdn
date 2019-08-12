@@ -12,7 +12,7 @@ public class Solution {
 
 //        尝试打印父类的私有属性，并且调用父类的私有方法
 //        System.out.println(son.fprivate);//子类对象无法调用父类的私有属性
-//        son.fprivate;//子类对象无法调用父类私有方法
+//        son.fpprint;//子类对象无法调用父类私有方法
 
         //使用getter方法调用父类私有属性，使用子类对象可调用的父类公有方法调用父类私有方法
         System.out.println(son.getFprivate());
